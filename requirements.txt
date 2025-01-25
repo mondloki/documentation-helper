@@ -1,0 +1,11 @@
+langchain-core
+langchainhub
+langchain-community
+langchain-google-genai
+langchain-pinecone
+python-dotenv
+pypdf
+faiss-cpu
+beautifulsoup4
+streamlit
+streamlit-chat
